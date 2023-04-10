@@ -50,7 +50,7 @@ Ayuda a las empresas a mejorar la creación y entrega de software al fomentar la
 
 
 ### **6. ¿Qué son pipelines?**
-Grupo de procesos automatizados que abarca desde la integración continua (CI), que implica la compilación y prueba de código cada vez que se realizan cambios, hasta la entrega continua (CD), que implica la automatización del proceso de despliegue de software en los entornos de producción.
+Grupo de procesos automatizados que abarca desde el proceso de integración continua (CI), que implica la compilación y prueba de código cada vez que se realizan cambios, hasta la entrega continua (CD), que implica la automatización del proceso de despliegue de software en los entornos de producción.
 
 
 ### **7. Ejemplos de pipeline**
