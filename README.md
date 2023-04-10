@@ -6,13 +6,15 @@ Contenido:
 
 
 
-## ¿Que es?
+## ¿Que Es?
 
 El término DevOps, que es una combinación de los términos ingleses development (desarrollo) y operations (operaciones), designa la unión de personas, procesos y tecnología para ofrecer valor a los clientes de forma constante.
 
 ¿Qué significa DevOps para los equipos? DevOps permite que los roles que antes estaban aislados (desarrollo, operaciones de TI, ingeniería de la calidad y seguridad) se coordinen y colaboren para producir productos mejores y más confiables. Al adoptar una cultura de DevOps junto con prácticas y herramientas de DevOps, los equipos adquieren la capacidad de responder mejor a las necesidades de los clientes, aumentar la confianza en las aplicaciones que crean y alcanzar los objetivos empresariales en menos tiempo.
 
-## ¿Para que sirve?
+![](https://orangematter.solarwinds.com/wp-content/uploads/2022/03/DevOps-lifecycle-capabilities-1024x621.png)
+
+## ¿Para Que Sirve?
 
 DevOps sirve para mejorar y acelerar el proceso de desarrollo de software, mediante la automatización, integración y colaboración entre los equipos de desarrollo, operaciones y seguridad.
 
@@ -60,8 +62,28 @@ Cada herramienta se utiliza para una función específica dentro del proceso de 
 
 
 
-Equipos devops
+## Equipos Devops
 
-que son pipelines
+Un equipo de DevOps está formado por desarrolladores y profesionales de operaciones de TI que colaboran durante todo el ciclo de vida de un producto para aumentar la velocidad y la calidad de la implementación del software. Se trata de una nueva forma de trabajar, un cambio cultural que tiene una profunda repercusión tanto para los equipos como para las organizaciones en las que trabajan.
+
+Con un modelo DevOps, se pone fin al aislamiento de los equipos de desarrollo y operaciones. A veces, estos dos equipos se fusionan en uno solo; en ese caso, los ingenieros, que cuentan con varias competencias multidisciplinarias, trabajan durante todo el ciclo de vida de una aplicación, desde la fase de desarrollo y pruebas hasta la de implementación y operaciones.
+
+Los equipos de DevOps utilizan herramientas para automatizar y acelerar los procesos, lo que hace que sean mucho más fiables. Con una cadena de herramientas de DevOps, los equipos pueden ocuparse de aspectos básicos de esta metodología, como la integración continua, la entrega continua, la automatización y la colaboración.
+
+Los valores de DevOps a veces se aplican a otros equipos que no son de desarrollo. Por ejemplo, cuando los equipos de seguridad adoptan un enfoque DevOps, la seguridad se convierte en una parte activa e integrada del proceso de desarrollo. 
+
+## ¿Que Son Pipelines?
+
+Un pipeline es una nueva forma de trabajar en el mundo devops en la integración continua. Utilizando pipeline y Jenkins, podemos definir el ciclo de vida completo de una aplicación (descargar código, compilar, test, desplegar, etc.) mediante código.
+
+De esta forma, resulta mucho más sencillo replicar los diferentes pasos con distintas aplicaciones y gestionar mejor los cambios en cada paso.
+
+# ¿Por qué usar pipelines?
+Uno de los mayores beneficios de usar pipelines y Jenkins es poder hacer los jobs más configurables, fáciles de editar y más durables. También podemos utilizar entradas (input) humanos o esperar la aprobación de otro job para ejecutar el nuestro mediante pipelines.
+
+Pero, además de estas ventajas, el principal valor diferencial de esta nueva estructura es que es versátil y extensible, y podemos crear pipelines para hacer un fork, un bucle, e incluso para ejecutar cosas en paralelo. Además podemos customizarlas todo lo que queramos mediante groovy.
 
 ejemplos de pipeline
+
+con el siguiente enlace podemos ver un ejemplo completo de un pipeline con jenkis
+![](https://onthedock.github.io/post/180521-pipeline-creacion-del-job-en-jenkins/)
