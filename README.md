@@ -4,6 +4,8 @@
 
 DevOps es un enfoque de desarrollo de software que tiene como objetivo acelerar la entrega de software de alta calidad mediante la combinación y automatización del trabajo de los equipos de desarrollo y operaciones de TI, y una cultura empresarial que promueve la colaboración y la integración de todas las partes interesadas en el ciclo de vida del software. La evolución de los ciclos de entrega de software ha pasado de grandes lanzamientos de código cada varios meses o años a actualizaciones iterativas más pequeñas y frecuentes. DevOps busca satisfacer la demanda de los usuarios de software de características innovadoras, un rendimiento y disponibilidad sin interrupciones.
 
+![image](https://user-images.githubusercontent.com/104689252/230987373-ec1d1b5f-db66-4076-9186-f0cc51f78f55.png)
+
 # Beneficios
 
 Aumenta la rentabilidad: DevOps mejora la productividad y reduce el tiempo desde la definición de los requisitos hasta el despliegue del producto, lo que permite a los negocios iniciar continuamente nuevos proyectos y abarcar una mayor cuota de mercado.
@@ -81,3 +83,5 @@ Un pipeline de seguridad que se enfoca en el análisis de seguridad del código.
 Un pipeline de monitoreo que se enfoca en la monitorización continua del software en producción. El pipeline incluye tareas como el monitoreo de logs, el análisis de métricas de rendimiento, la detección y resolución de problemas de manera proactiva, y la retroalimentación a los equipos de desarrollo para la mejora continua del software.
 
 Un pipeline de infraestructura como código que se enfoca en la gestión automatizada de la infraestructura. El pipeline incluye tareas como la creación de infraestructura mediante scripts de configuración, la implementación de cambios en la infraestructura de manera automatizada, y la gestión de los entornos de infraestructura de manera eficiente.
+
+![no dormi nada](https://user-images.githubusercontent.com/104689252/230987108-9b34b2e5-2dff-44d1-ab4d-3d78d425150c.png)
