@@ -8,7 +8,7 @@ DevOps es una cultura, práctica y filosofía que tiene como objetivo integrar y
 la entrega continua a los usuarios finales. En DevOps, los equipos de desarrollo de software y los de operaciones
 trabajan juntos para crear y entregar software de alta calidad en un proceso integrado y automatizado.
 
-![img_2.png](img_2.png)
+![herramientasdevops.png](herramientasdevops.png)
 
 ### ¿Para que sirve?
 
@@ -31,7 +31,7 @@ software. Algunas herramientas populares son: Jenkins, Git, Docker, Ansible, Pup
 herramientas pueden ayudar a los equipos DevOps a implementar y automatizar los flujos de trabajo de desarrollo, pruebas
 y despliegue de software.
 
-![img.png](img.png)
+![devops.png](devops.png)
 
 ### Equipos devops
 
