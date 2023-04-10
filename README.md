@@ -119,3 +119,34 @@ que son pipelines
 Los pipelines son procesos automatizados y estructurados que abarcan desde la etapa de desarrollo hasta la producción. Están diseñados para permitir una entrega rápida y confiable de software, mejorar la calidad del software y fomentar la colaboración entre los equipos de desarrollo y operaciones. Las herramientas y plataformas como Jenkins, Travis CI, CircleCI, AWS CodePipeline y GitLab CI/CD son utilizadas para crear y administrar pipelines, lo que permite a los equipos automatizar el proceso de entrega de software, monitorear el estado del pipeline en tiempo real y proporcionar información valiosa sobre el rendimiento y la calidad del software. Los pipelines son una herramienta clave en el arsenal de DevOps para lograr una entrega continua y despliegue continuo de software de alta calidad.
 
 ejemplos de pipeline
+
+Ejemplo 1:
+
+- Control de versiones: El desarrollador escribe código y lo sube al sistema de control de versiones, como Git.
+- Integración continua: Cada vez que se realiza una confirmación de código en Git, Jenkins, una herramienta de integración
+continua, verifica y compila el código automáticamente.
+- Pruebas: Jenkins ejecuta automáticamente una serie de pruebas unitarias para detectar cualquier problema en el código.
+- Entrega continua: Si todas las pruebas pasan, Jenkins empaqueta el código en un artefacto, lo almacena en un repositorio
+de artefactos y despliega el artefacto en un entorno de pruebas o de preparación.
+- Pruebas de aceptación: Se realizan pruebas adicionales en el entorno de preparación o pruebas de aceptación para
+verificar que la nueva funcionalidad se integre sin problemas con el sistema existente.
+- Despliegue continuo: Si las pruebas de aceptación son exitosas, Jenkins despliega automáticamente el artefacto en
+producción.
+- Monitoreo y análisis: Una vez en producción, la plataforma de monitoreo y análisis del sistema, como New Relic, recopila
+métricas y proporciona información valiosa sobre el rendimiento del sistema y la calidad del software.
+
+Ejemplo 2:
+
+- Control de versiones: El desarrollador crea una rama de desarrollo y escribe código en su estación de trabajo local.
+El desarrollador luego realiza varias confirmaciones de código en Git.
+- Integración continua: Jenkins detecta automáticamente las confirmaciones de código y ejecuta una serie de pruebas
+unitarias y de integración.
+- Validación de código: Jenkins utiliza SonarQube para analizar automáticamente el código en busca de errores,
+vulnerabilidades y malas prácticas de codificación.
+- Empaquetado de artefactos: Jenkins utiliza Maven para compilar el código y empaquetar el artefacto de la aplicación.
+- Pruebas de aceptación: Jenkins despliega el artefacto en un entorno de pruebas, donde se realizan pruebas de aceptación
+automatizadas utilizando herramientas de pruebas de comportamiento, como Cucumber.
+- Despliegue en producción: Si las pruebas de aceptación son exitosas, Jenkins utiliza Ansible para orquestar el
+despliegue de la aplicación en el entorno de producción.
+- Monitoreo y análisis: La plataforma de monitoreo y análisis, como Prometheus y Grafana, recopila métricas en tiempo real
+y proporciona información valiosa sobre el rendimiento del sistema y la calidad del software.
