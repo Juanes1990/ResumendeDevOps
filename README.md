@@ -29,6 +29,9 @@ funciones en el desarrollo de software y las operaciones de TI. Cualquiera que p
 entrega de software puede adoptar una mentalidad DevOps y aplicar prácticas DevOps en su trabajo, incluidos
 desarrolladores, probadores, ingenieros de operaciones y otros.
 
+Facilitando una cultura de colaboracion y responsabilidad compartida, acelerando la integracion y el despliegue de aplicaciones
+A traves de automatizacion, feedBack rapido y mejora iterativa. Representa un Cambio en cuanto a la cultura de IT de una organizacion, fundamentandose en practicas y conceptos de desarrollo agil, Su exito depende de la habilidad de crear una cultura de comunicacion y empatia entre los miembros del equipo.
+
 DevOps es una metodología de desarrollo de software que se enfoca en la colaboración y la comunicación entre los equipos
 de desarrollo y operaciones. Su objetivo es crear un entorno en el que los equipos trabajen juntos de manera eficiente
 para lograr un ciclo de vida de desarrollo de software más rápido y confiable. DevOps combina las prácticas de
@@ -64,6 +67,7 @@ no ser adecuada para todas las situaciones.
 - **Flexibilidad y escalabilidad:** DevOps permite una mayor flexibilidad y escalabilidad en la implementación de
   software. Las herramientas y prácticas de automatización permiten implementar aplicaciones en diferentes entornos de
   manera fácil y rápida.
+- Mayor eficiencia: DevOps fomenta la automatización de procesos y la eliminación de tareas manuales redundantes, lo que aumenta la eficiencia del equipo y reduce el tiempo de entrega.  
 - **Reducción de costos:** La automatización y la detección temprana de problemas permiten reducir el costo de
   reparación de errores en producción, lo que a su vez reduce el costo total de desarrollo y operación de software.
 
@@ -82,11 +86,11 @@ Los beneficios de DevOps superan los contras y es por eso que se ha convertido e
 industria del software. La implementación correcta de DevOps puede aumentar la calidad y la velocidad de entrega de
 software, lo que a su vez puede mejorar la satisfacción del cliente y la rentabilidad de la empresa.
 
-## PRINCIPIOS DEVOPS
+## Principios DevOps
 
 En general, lo que siempre queremos con devops es mejorar la frecuencia de nuestros despliegues, acelerar el time to Market, disminuir la tasa de errores en las nuevas entregas al tener una cobertura alta de pruebas automatizadas, reducir los tiempos entre correcciones, dado que tenemos herramientas de monitoreo que nos permiten encontrar errores y además, tenemos una forma muy rápida y automatizada de desplegar, además también cuando tenemos errores o caídas en producción, pues nos vamos a poder recuperar fácilmente y rápido ante estas caídas. 
 
-![infografia devops](Images/Infografia 2.png)
+![infografia devops](Images/Infografia2.png)
 
 # Herramientas de DevOps
 
@@ -135,6 +139,20 @@ colaboración entre equipos.
 El enfoque DevOps se centra en la colaboración y comunicación estrecha entre los equipos de desarrollo y operaciones,
 por lo que la estructura de un equipo DevOps suele ser interdisciplinaria, con miembros de ambos equipos trabajando
 juntos.
+
+A continuación, se describen algunos de los roles más comunes en un equipo de DevOps:
+
+Desarrolladores: Son responsables de escribir y probar el código del software. Trabajan en colaboración con los miembros del equipo de operaciones para garantizar que el código sea compatible con la infraestructura de producción.
+
+Administradores de sistemas: Son responsables de configurar, implementar y mantener la infraestructura de TI necesaria para ejecutar y entregar el software. A menudo, trabajan en colaboración con los desarrolladores para garantizar que la infraestructura sea compatible con el software.
+
+Ingenieros de automatización: Son responsables de la creación y el mantenimiento de herramientas y procesos de automatización para agilizar y optimizar el desarrollo, prueba y entrega de software.
+
+Ingenieros de seguridad: Son responsables de garantizar la seguridad del software y la infraestructura de TI. Trabajan en colaboración con los desarrolladores y administradores de sistemas para identificar y mitigar posibles vulnerabilidades.
+
+Ingenieros de calidad: Son responsables de garantizar la calidad del software entregado, a través de la implementación de pruebas automatizadas y de la integración continua.
+
+Líder de proyecto: Es responsable de supervisar el progreso del proyecto, la gestión de recursos, la planificación y coordinación de actividades, y la toma de decisiones clave.
 
 ![4](https://user-images.githubusercontent.com/70449743/230980916-61103eac-ff93-4bcb-b750-c1c7819b36fb.jpg)
 
