@@ -1,0 +1,5 @@
+Mi nombre es James Arley Muñoz Borja, tengo 29 años y soy de la ciudad de Medellín. Me gradué en Tecnología en Electrónica y actualmente trabajo como Analista de Calidad.
+
+Mis conocimientos en programación se centran en el desarrollo y automatización web, con experiencia en herramientas como Selenium, rest assured y el patrón de diseño Screenplay. Además, tengo habilidades en bases de datos relacionales, específicamente en MySQL. También poseo conocimientos en ISTQB y ISTQB Mobile, lo que me ha permitido especializarme en mi rol de analista de calidad.
+
+Me gusta seguir aprendiendo y mejorando mis habilidades para brindar un mejor servicio. En mi tiempo libre, disfruto de la música y los videojuegos. Me gusta descubrir nuevas canciones dentro de mi género musical preferido y jugar videojuegos tanto en solitario como con amigos.
