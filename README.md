@@ -56,7 +56,7 @@ Existen muchas herramientas de DevOps disponibles en el mercado, a continuación
 - Chef: Herramienta de automatización de configuración y gestión de infraestructuras.
 Cada herramienta se utiliza para una función específica dentro del proceso de DevOps, como la gestión de versiones de código fuente, la automatización de pruebas y entregas, la creación y gestión de contenedores, la orquestación de aplicaciones, la automatización de configuración de infraestructura, el monitoreo de infraestructuras y servicios, la visualización de datos, la gestión de recursos de infraestructura en la nube y la automatización de configuración y gestión de infraestructuras.
 
-![(https://www.excentia.es/img/posts/2018-04-13-herramientas-devops.png)]
+![](https://www.excentia.es/img/posts/2018-04-13-herramientas-devops.png)
 
 
 
