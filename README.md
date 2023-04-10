@@ -90,7 +90,7 @@ software, lo que a su vez puede mejorar la satisfacción del cliente y la rentab
 
 En general, lo que siempre queremos con devops es mejorar la frecuencia de nuestros despliegues, acelerar el time to Market, disminuir la tasa de errores en las nuevas entregas al tener una cobertura alta de pruebas automatizadas, reducir los tiempos entre correcciones, dado que tenemos herramientas de monitoreo que nos permiten encontrar errores y además, tenemos una forma muy rápida y automatizada de desplegar, además también cuando tenemos errores o caídas en producción, pues nos vamos a poder recuperar fácilmente y rápido ante estas caídas. 
 
-![infografia devops](Images/Infografia2.png)
+![Infografia 2.png](Images/Infografia 2.png)
 
 # Herramientas de DevOps
 
@@ -217,7 +217,10 @@ Pipeline para una infraestructura de TI: Este pipeline puede tener etapas para l
 
 Un pipeline de seguridad que se enfoca en el análisis de seguridad del código. El pipeline incluye tareas como análisis estático de código, análisis de vulnerabilidades y pruebas de penetración.
 
+Otro ejemplo de pipeline es el proceso de compilación y empaquetado de una aplicación, la realización de pruebas unitarias y de integración, y la implementación de actualizaciones y parches de seguridad en un sistema en producción. Los equipos DevOps pueden crear pipelines personalizados para adaptarse a sus necesidades específicas y garantizar la entrega continua y eficiente de software de alta calidad.
+
 ![ejemplos](https://user-images.githubusercontent.com/58493019/230983632-e700a4a8-da26-4d5a-9826-53aed0b5d773.png)
+
 
 **Algunas recomendaciones para facilitar la implementación de DevOps**
 
