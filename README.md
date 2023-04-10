@@ -82,11 +82,11 @@ Los beneficios de DevOps superan los contras y es por eso que se ha convertido e
 industria del software. La implementación correcta de DevOps puede aumentar la calidad y la velocidad de entrega de
 software, lo que a su vez puede mejorar la satisfacción del cliente y la rentabilidad de la empresa.
 
-PRINCIPIOS DEVOPS
+## PRINCIPIOS DEVOPS
 
 En general, lo que siempre queremos con devops es mejorar la frecuencia de nuestros despliegues, acelerar el time to Market, disminuir la tasa de errores en las nuevas entregas al tener una cobertura alta de pruebas automatizadas, reducir los tiempos entre correcciones, dado que tenemos herramientas de monitoreo que nos permiten encontrar errores y además, tenemos una forma muy rápida y automatizada de desplegar, además también cuando tenemos errores o caídas en producción, pues nos vamos a poder recuperar fácilmente y rápido ante estas caídas. 
 
-![infografia devops](Images/Infografia 2.PNG)
+![infografia devops](Images/Infografia 2.png)
 
 # Herramientas de DevOps
 
@@ -195,7 +195,9 @@ Pipeline para una aplicación web: Este pipeline puede tener etapas para la comp
 
 Pipeline para una aplicación móvil: Este pipeline puede tener etapas para la compilación del código fuente, la ejecución de pruebas automatizadas, la generación de builds para diferentes plataformas móviles, la implementación en un ambiente de pruebas y la implementación en la tienda de aplicaciones. 
 
-Pipeline para una infraestructura de TI: Este pipeline puede tener etapas para la creación de infraestructura, la instalación y configuración de software, la ejecución de pruebas automatizadas y la implementación en un ambiente de producción. 
+Pipeline para una infraestructura de TI: Este pipeline puede tener etapas para la creación de infraestructura, la instalación y configuración de software, la ejecución de pruebas automatizadas y la implementación en un ambiente de producción.
+
+Un pipeline de seguridad que se enfoca en el análisis de seguridad del código. El pipeline incluye tareas como análisis estático de código, análisis de vulnerabilidades y pruebas de penetración.
 
 ![ejemplos](https://user-images.githubusercontent.com/58493019/230983632-e700a4a8-da26-4d5a-9826-53aed0b5d773.png)
 
@@ -207,3 +209,5 @@ Pipeline para una infraestructura de TI: Este pipeline puede tener etapas para l
     src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
     alt="Gitmoji"
   />
+  
+  ![no dormi nada](https://user-images.githubusercontent.com/104689252/230987108-9b34b2e5-2dff-44d1-ab4d-3d78d425150c.png)
