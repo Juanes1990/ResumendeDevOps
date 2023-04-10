@@ -87,5 +87,5 @@ Es un conjunto de procesos automatizados que se utilizan para compilar, probar y
 
 # ejemplos de pipeline
 
-![Pipelines](images/Pipelines.png)
+![Pipelines](Images/Pipelines.png)
 
