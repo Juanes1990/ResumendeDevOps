@@ -85,5 +85,5 @@ Pero, además de estas ventajas, el principal valor diferencial de esta nueva es
 
 ejemplos de pipeline
 
-con el siguiente enlace podemos ver un [ejemplo] completo de un pipeline con jenkis
-(https://onthedock.github.io/post/180521-pipeline-creacion-del-job-en-jenkins/)
+con el siguiente enlace podemos ver un `[ejemplo]
+(https://onthedock.github.io/post/180521-pipeline-creacion-del-job-en-jenkins/)`
