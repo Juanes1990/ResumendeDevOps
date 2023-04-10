@@ -2,6 +2,9 @@ Santiago Ramirez Arenas
 ¿Qué es?
 
 
+![Devops2](https://user-images.githubusercontent.com/104659775/230982611-5a0eca93-b474-45bb-adf3-38a5f1ab283d.jpg)
+
+
 DevOps constituye una combinación de filosofías culturales, prácticas y herramientas usadas para mejorar los procesos tradicionales de desarrollo de software. 
 
 
@@ -9,6 +12,9 @@ Cuando un equipo de desarrollo entrega el proyecto a otro para que lo cuide, es 
 
 
 ¿Para qué sirve?
+
+
+![Devops1](https://user-images.githubusercontent.com/104659775/230982574-24438e62-049b-4241-ad57-1aaa1addc837.jpg)
 
 
 El objetivo principal de DevOps es mejorar la colaboración y la comunicación entre los equipos de desarrollo de software y los equipos de operaciones de IT, lo que permite entregar software de alta calidad más rápido y de manera más eficiente
