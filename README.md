@@ -87,6 +87,16 @@ de DevOps, especialmente si la mejora de la eficiencia y calidad del software no
 
 herramientas de devops
 
+- Control de versiones: Git, SVN
+- Integración continua: Jenkins, CircleCI, Travis CI
+- Entrega continua: AWS CodePipeline, Azure DevOps, GitLab CI/CD
+- Despliegue continuo: Kubernetes, Docker, AWS Elastic Beanstalk
+- Monitorización y análisis: Nagios, New Relic, Prometheus
+- Automatización de infraestructura: Ansible, Terraform, Chef
+- Colaboración: Slack, Microsoft Teams, Asana
+- Gestión de la configuración: Puppet, SaltStack
+- Pruebas: Selenium, JUnit, NUnit
+
 Equipos devops
 
 que son pipelines
