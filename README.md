@@ -2,6 +2,8 @@
 
 ![Image1.jpeg](Images/Image1.jpeg)
 
+Contenido:
+
 ## Contenido
 1. [¿Qué es DevOps?](#qué-es-devops)
 2. [¿Para qué sirve DevOps?](#para-qué-sirve-devops)
@@ -79,6 +81,12 @@ no ser adecuada para todas las situaciones.
 Los beneficios de DevOps superan los contras y es por eso que se ha convertido en una metodología muy popular en la
 industria del software. La implementación correcta de DevOps puede aumentar la calidad y la velocidad de entrega de
 software, lo que a su vez puede mejorar la satisfacción del cliente y la rentabilidad de la empresa.
+
+PRINCIPIOS DEVOPS
+
+En general, lo que siempre queremos con devops es mejorar la frecuencia de nuestros despliegues, acelerar el time to Market, disminuir la tasa de errores en las nuevas entregas al tener una cobertura alta de pruebas automatizadas, reducir los tiempos entre correcciones, dado que tenemos herramientas de monitoreo que nos permiten encontrar errores y además, tenemos una forma muy rápida y automatizada de desplegar, además también cuando tenemos errores o caídas en producción, pues nos vamos a poder recuperar fácilmente y rápido ante estas caídas. 
+
+![infografia devops](Images/Infografia 2.PNG)
 
 # Herramientas de DevOps
 
