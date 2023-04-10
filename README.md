@@ -1,6 +1,6 @@
 # ResumendeDevOps
 
-![DevOps](https://th.bing.com/th/id/R.e43a5b2e22cf4113e9d1c8e9a6ebd663?rik=fMElY%2boQNNRG3g&riu=http%3a%2f%2fagapeconsultinggroup.com%2fwp-content%2fuploads%2f2017%2f07%2fDevOps.png&ehk=4kG1HWZ4%2bu%2fRDTuBY8WweZ%2fv%2bQWtZWO5kHL0QnTT3WU%3d&risl=&pid=ImgRaw&r=0)
+<img src="https://th.bing.com/th/id/R.e43a5b2e22cf4113e9d1c8e9a6ebd663?rik=fMElY%2boQNNRG3g&riu=http%3a%2f%2fagapeconsultinggroup.com%2fwp-content%2fuploads%2f2017%2f07%2fDevOps.png&ehk=4kG1HWZ4%2bu%2fRDTuBY8WweZ%2fv%2bQWtZWO5kHL0QnTT3WU%3d&risl=&pid=ImgRaw&r=0" width="500" height="400">
 
 
 ## **Tabla de Contenido:**  :white_check_mark:
@@ -21,7 +21,7 @@ Además de los esfuerzos por romper las barreras de comunicación y fomentar la 
 
 DevOps se basa en técnicas de gestión ágil de proyectos y en el uso de microservicios, y aborda el ciclo de vida completo del desarrollo de software desde la planificación hasta la supervisión.
 
-https://youtu.be/3-vd5NDH1-I
+Haz clic [DevOps en 5 minutos | ¿Qué es DevOps? | Explicación DevOps](https://youtu.be/3-vd5NDH1-I)
 
 ### **_¿Para qué sirve?_**
 DevOps sirve para mejorar la colaboración y comunicación entre los equipos de desarrollo de software y operaciones de TI. Esto permite una entrega más rápida y eficiente de software y productos de alta calidad a los clientes. También ayuda a impulsar la innovación empresarial y a mejorar continuamente los procesos.
@@ -39,14 +39,20 @@ Hay muchas herramientas disponibles para ayudar a implementar DevOps en una orga
 
 Algunas herramientas populares de DevOps incluyen:
 
-**JIRA:** una herramienta de gestión de proyectos desarrollada por Atlassian que se utiliza para el seguimiento de problemas, errores y proyectos.
-**SVN:** una herramienta de control de versiones que permite a los equipos colaborar en el desarrollo de software.
-**Ant:** una herramienta de automatización de compilación que ayuda a automatizar el proceso de compilación y prueba de software.
-**Puppet:** una herramienta de gestión de configuración que ayuda a automatizar la configuración y el mantenimiento de sistemas y aplicaciones.
+- **JIRA:** una herramienta de gestión de proyectos desarrollada por Atlassian que se utiliza para el seguimiento de problemas, errores y proyectos.
+
+- **SVN:** una herramienta de control de versiones que permite a los equipos colaborar en el desarrollo de software.
+
+- **Ant:** una herramienta de automatización de compilación que ayuda a automatizar el proceso de compilación y prueba de software.
+
+- **Puppet:** una herramienta de gestión de configuración que ayuda a automatizar la configuración y el mantenimiento de sistemas y aplicaciones.
 Prometheus: una herramienta de seguridad continua que ayuda a monitorear y proteger aplicaciones y sistemas.
-**Selenium:** una herramienta de automatización de pruebas que ayuda a automatizar las pruebas de software.
-**Nagios:** una herramienta de monitoreo que ayuda a monitorear sistemas y aplicaciones para detectar problemas y mejorar el rendimiento.
-**AWS:** un proveedor líder de servicios en la nube que ofrece una amplia gama de servicios para ayudar a implementar y ejecutar aplicaciones en la nube.
+
+- **Selenium:** una herramienta de automatización de pruebas que ayuda a automatizar las pruebas de software.
+
+- **Nagios:** una herramienta de monitoreo que ayuda a monitorear sistemas y aplicaciones para detectar problemas y mejorar el rendimiento.
+
+- **AWS:** un proveedor líder de servicios en la nube que ofrece una amplia gama de servicios para ayudar a implementar y ejecutar aplicaciones en la nube.
 
 ### **_Equipos DevOps_** :restroom:
 Un equipo de DevOps es un grupo interdisciplinario de profesionales que trabajan juntos para mejorar la colaboración y comunicación entre los equipos de desarrollo y operaciones. El objetivo de un equipo de DevOps es mejorar la eficiencia y calidad del desarrollo de software mediante la implementación de prácticas y herramientas de DevOps.
@@ -57,12 +63,17 @@ La estructura y composición exacta de un equipo de DevOps puede variar según l
 
 Puede estar compuesto por profesionales de diferentes áreas y con diferentes habilidades. Algunos de los roles comunes en un equipo de DevOps pueden incluir:
 
-**Desarrolladores de software:** responsables de escribir y mantener el código fuente de la aplicación.
-**Ingenieros de operaciones:** responsables de mantener y mejorar la infraestructura y los sistemas que soportan la aplicación.
-**Ingenieros de calidad:** responsables de garantizar que el software cumpla con los estándares de calidad y funcione correctamente.
-**Ingenieros de seguridad:** responsables de garantizar que el software y la infraestructura sean seguros y cumplan con los estándares de seguridad.
-**Gerentes de producto:** responsables de definir y priorizar las características y funcionalidades del producto.
-**Scrum Masters o facilitadores de Agile:** responsables de facilitar la comunicación y colaboración entre los miembros del equipo y asegurar que se sigan las prácticas ágiles.
+- **Desarrolladores de software:** responsables de escribir y mantener el código fuente de la aplicación.
+
+- **Ingenieros de operaciones:** responsables de mantener y mejorar la infraestructura y los sistemas que soportan la aplicación.
+
+- **Ingenieros de calidad:** responsables de garantizar que el software cumpla con los estándares de calidad y funcione correctamente.
+
+- **Ingenieros de seguridad:** responsables de garantizar que el software y la infraestructura sean seguros y cumplan con los estándares de seguridad.
+
+- **Gerentes de producto:** responsables de definir y priorizar las características y funcionalidades del producto.
+
+- **Scrum Masters o facilitadores de Agile:** responsables de facilitar la comunicación y colaboración entre los miembros del equipo y asegurar que se sigan las prácticas ágiles.
 
 La composición exacta de un equipo de DevOps puede variar según las necesidades y objetivos específicos de cada organización. Lo importante es que el equipo esté formado por profesionales con habilidades complementarias que puedan trabajar juntos para mejorar el proceso de desarrollo de software.
 que son pipelines
