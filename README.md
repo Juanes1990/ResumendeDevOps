@@ -23,8 +23,9 @@ En lugar de trabajar de forma aislada y secuencial, los equipos de DevOps trabaj
 Además, DevOps fomenta la cultura de la mejora continua, lo que significa que los equipos están constantemente buscando formas de optimizar y mejorar el proceso de desarrollo y entrega de software.
 
 
-## Beneficios y Contras
+### Beneficios y Contras
 
+## Beneficios
 - **Mayor velocidad y frecuencia en el lanzamiento de software.**
 - **Mejora en la calidad del software**, debido a la automatización de pruebas y procesos de integración continua.
 - **Reducción en el tiempo de resolución de problemas**, gracias a la detección temprana y la resolución rápida de problemas.
@@ -32,7 +33,7 @@ Además, DevOps fomenta la cultura de la mejora continua, lo que significa que l
 - **Mayor eficiencia y reducción de costos**, gracias a la automatización de tareas manuales y repetitivas.
 - **Promueve la cultura de la mejora continua**, lo que significa que los equipos están constantemente buscando formas de optimizar y mejorar el proceso de desarrollo y entrega de software.
 
-### Contras de DevOps:
+## Contras:
 
 - **Aumento en la complejidad del proceso**, debido a la necesidad de integrar herramientas y procesos de desarrollo y operaciones.
 - **Requiere un mayor conocimiento y habilidades técnicas**, lo que puede resultar en la necesidad de capacitar al personal.
