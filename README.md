@@ -99,6 +99,23 @@ herramientas de devops
 
 Equipos devops
 
+- Desarrolladores: Son los encargados de escribir el código y asegurar que este se integre correctamente en el repositorio
+de código.
+
+- Ingenieros de operaciones: Son los encargados de garantizar que la infraestructura y los sistemas estén en
+funcionamiento y sean escalables, confiables y seguros.
+
+- Ingenieros de automatización: Son los encargados de diseñar, implementar y mantener herramientas y procesos de
+automatización para facilitar la integración continua, la entrega continua y el despliegue continuo.
+
+- Especialistas en seguridad: Son los encargados de garantizar la seguridad de las aplicaciones y sistemas, asegurándose
+de que se implementen los controles de seguridad adecuados y de que se realicen las pruebas de seguridad necesarias.
+
+- Especialistas en monitoreo y análisis: Son los encargados de monitorear el rendimiento y la disponibilidad de las
+aplicaciones y sistemas, así como de analizar los datos para identificar posibles problemas y oportunidades de mejora.
+
 que son pipelines
+
+Los pipelines son procesos automatizados y estructurados que abarcan desde la etapa de desarrollo hasta la producción. Están diseñados para permitir una entrega rápida y confiable de software, mejorar la calidad del software y fomentar la colaboración entre los equipos de desarrollo y operaciones. Las herramientas y plataformas como Jenkins, Travis CI, CircleCI, AWS CodePipeline y GitLab CI/CD son utilizadas para crear y administrar pipelines, lo que permite a los equipos automatizar el proceso de entrega de software, monitorear el estado del pipeline en tiempo real y proporcionar información valiosa sobre el rendimiento y la calidad del software. Los pipelines son una herramienta clave en el arsenal de DevOps para lograr una entrega continua y despliegue continuo de software de alta calidad.
 
 ejemplos de pipeline
