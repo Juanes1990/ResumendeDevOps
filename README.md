@@ -1,9 +1,8 @@
 # Resumen de DevOps 
 
-![1](https://user-images.githubusercontent.com/70449743/230980577-993136a7-3270-44a7-a90e-6ac88e68dc52.jpg)
+![Image1.jpeg](Images/Image1.jpeg)
 
 ## Contenido
-
 1. [¿Qué es DevOps?](#qué-es-devops)
 2. [¿Para qué sirve DevOps?](#para-qué-sirve-devops)
 3. [Beneficios y Contras](#beneficios-y-contras)
@@ -184,26 +183,11 @@ trabajar juntos de manera más eficiente y ofrecer software de alta calidad de m
 
 # Ejemplos de `pipelines`
 
-Un ejemplo de pipeline de DevOps puede ser el siguiente: el desarrollador realiza una actualización en el código fuente
-de una aplicación y envía los cambios a un repositorio de control de versiones como Git. Un servidor de integración
-continua como Jenkins monitorea el repositorio en busca de cambios y, cuando detecta uno, compila el código y ejecuta
-pruebas unitarias automatizadas. Si las pruebas unitarias pasan, el código se implementa en un entorno de prueba
-automatizado, donde se ejecutan pruebas de integración y de usuario. Si las pruebas son exitosas, el código se
-implementa automáticamente en un entorno de producción.
+Pipeline para una aplicación web: Este pipeline puede tener etapas para la compilación del código fuente, la ejecución de pruebas de integración y de rendimiento, el empaquetado de la aplicación en un contenedor, la implementación en un ambiente de pruebas y la implementación en producción. 
 
-Otro ejemplo de pipeline de DevOps: el equipo de desarrollo trabaja en una nueva característica para una aplicación y
-utiliza un sistema de control de versiones como Git para colaborar en el código fuente. Después de que el código ha sido
-aprobado y fusionado en la rama principal del repositorio, un servidor de integración continua como Travis CI o CircleCI
-ejecuta pruebas de unidad y de integración en el código recién fusionado. Si todas las pruebas pasan, el servidor de
-integración continua construye un paquete de implementación y lo envía a un servidor de entrega continua como CodeDeploy
-de AWS, que implementa la aplicación en un entorno de prueba. Si las pruebas de aceptación de usuario automatizadas se
-completan con éxito, el código se implementa en producción. El equipo de operaciones monitorea continuamente la
-aplicación en producción y proporciona retroalimentación al equipo de desarrollo para futuras mejoras.
+Pipeline para una aplicación móvil: Este pipeline puede tener etapas para la compilación del código fuente, la ejecución de pruebas automatizadas, la generación de builds para diferentes plataformas móviles, la implementación en un ambiente de pruebas y la implementación en la tienda de aplicaciones. 
 
-Estos son solo dos ejemplos de pipelines de DevOps, pero cada equipo de DevOps tiene su propio proceso de desarrollo
-personalizado que se adapta a las necesidades y objetivos específicos de la empresa. La flexibilidad y personalización
-de los pipelines de DevOps son una de las razones por las que esta metodología ha demostrado ser exitosa en la entrega
-rápida y confiable de software.
+Pipeline para una infraestructura de TI: Este pipeline puede tener etapas para la creación de infraestructura, la instalación y configuración de software, la ejecución de pruebas automatizadas y la implementación en un ambiente de producción. 
 
 ![ejemplos](https://user-images.githubusercontent.com/58493019/230983632-e700a4a8-da26-4d5a-9826-53aed0b5d773.png)
 
@@ -215,4 +199,3 @@ rápida y confiable de software.
     src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
     alt="Gitmoji"
   />
-
