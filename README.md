@@ -1,6 +1,6 @@
 # ResumendeDevOps
 
-https://devopsdays.io/
+
 Contenido:
 
 
@@ -25,19 +25,19 @@ Además, DevOps fomenta la cultura de la mejora continua, lo que significa que l
 
 ## Beneficios y Contras
 
-# Beneficios de DevOps:
-- Mayor velocidad y frecuencia en el lanzamiento de software.
-- Mejora en la calidad del software, debido a la automatización de pruebas y procesos de integración continua.
-- Reducción en el tiempo de resolución de problemas, gracias a la detección temprana y la resolución rápida de problemas.
-- Mayor colaboración y comunicación entre los equipos de desarrollo, operaciones y seguridad.
-- Mayor eficiencia y reducción de costos, gracias a la automatización de tareas manuales y repetitivas.
-- Promueve la cultura de la mejora continua, lo que significa que los equipos están constantemente buscando formas de optimizar y mejorar el proceso de desarrollo y entrega de software.
+- **Mayor velocidad y frecuencia en el lanzamiento de software.**
+- **Mejora en la calidad del software**, debido a la automatización de pruebas y procesos de integración continua.
+- **Reducción en el tiempo de resolución de problemas**, gracias a la detección temprana y la resolución rápida de problemas.
+- **Mayor colaboración y comunicación entre los equipos de desarrollo, operaciones y seguridad.**
+- **Mayor eficiencia y reducción de costos**, gracias a la automatización de tareas manuales y repetitivas.
+- **Promueve la cultura de la mejora continua**, lo que significa que los equipos están constantemente buscando formas de optimizar y mejorar el proceso de desarrollo y entrega de software.
 
-# Contras de DevOps:
-- Aumento en la complejidad del proceso, debido a la necesidad de integrar herramientas y procesos de desarrollo y operaciones.
-- Requiere un mayor conocimiento y habilidades técnicas, lo que puede resultar en la necesidad de capacitar al personal.
-- Requiere un cambio cultural en los equipos, ya que la metodología de DevOps promueve una mayor colaboración y responsabilidad compartida entre los equipos de desarrollo, operaciones y seguridad.
-- Puede ser costoso implementar y mantener herramientas y tecnologías de automatización y gestión de infraestructuras.
+### Contras de DevOps:
+
+- **Aumento en la complejidad del proceso**, debido a la necesidad de integrar herramientas y procesos de desarrollo y operaciones.
+- **Requiere un mayor conocimiento y habilidades técnicas**, lo que puede resultar en la necesidad de capacitar al personal.
+- **Requiere un cambio cultural en los equipos**, ya que la metodología de DevOps promueve una mayor colaboración y responsabilidad compartida entre los equipos de desarrollo, operaciones y seguridad.
+- **Puede ser costoso implementar y mantener herramientas y tecnologías de automatización y gestión de infraestructuras.**
 
 En resumen, los beneficios de DevOps son una mayor velocidad, calidad, eficiencia y colaboración en el proceso de desarrollo de software, mientras que los contras pueden incluir un aumento en la complejidad del proceso, la necesidad de un mayor conocimiento técnico y un cambio cultural en los equipos.
 
@@ -86,3 +86,5 @@ Pero, además de estas ventajas, el principal valor diferencial de esta nueva es
 ejemplos de pipeline
 
 con el siguiente enlace podemos ver un `[ejemplo](https://onthedock.github.io/post/180521-pipeline-creacion-del-job-en-jenkins/)`
+
+Enlace de Interes https://devopsdays.io/
