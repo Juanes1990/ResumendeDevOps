@@ -86,7 +86,7 @@ PRINCIPIOS DEVOPS
 
 En general, lo que siempre queremos con devops es mejorar la frecuencia de nuestros despliegues, acelerar el time to Market, disminuir la tasa de errores en las nuevas entregas al tener una cobertura alta de pruebas automatizadas, reducir los tiempos entre correcciones, dado que tenemos herramientas de monitoreo que nos permiten encontrar errores y además, tenemos una forma muy rápida y automatizada de desplegar, además también cuando tenemos errores o caídas en producción, pues nos vamos a poder recuperar fácilmente y rápido ante estas caídas. 
 
-[infografia devops](Images/Infografia 2.PNG)
+![infografia devops](Images/Infografia 2.PNG)
 
 # Herramientas de DevOps
 
