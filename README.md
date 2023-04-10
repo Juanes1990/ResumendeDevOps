@@ -81,6 +81,8 @@ no ser adecuada para todas las situaciones.
 - **Gestión de la complejidad:** La implementación de DevOps puede aumentar la complejidad del proceso de implementación
   de software. Es necesario gestionar y monitorear la infraestructura y los sistemas en tiempo real, lo que puede ser un
   desafío para algunas organizaciones.
+-**Riesgos de seguridad: La automatización y la entrega continua pueden aumentar el riesgo de vulnerabilidades de seguridad si no se implementan medidas adecuadas de seguridad y pruebas. Los equipos de DevOps deben asegurarse de que se implementen medidas adecuadas para mitigar estos riesgos. Aquí es donde surge DevSecOps a partir de las vulnerabilidades de seguridad a lo largo del ciclo de vida de desarrollo del software
+  Herramientas de devops
 
 Los beneficios de DevOps superan los contras y es por eso que se ha convertido en una metodología muy popular en la
 industria del software. La implementación correcta de DevOps puede aumentar la calidad y la velocidad de entrega de
@@ -204,6 +206,16 @@ Los pipelines de DevOps pueden incluir una variedad de herramientas y tecnologí
 Jenkins para automatización de construcción y Bamboo para automatización de despliegue. Los pipelines de DevOps son una
 forma eficaz de automatizar el proceso de entrega de software, lo que permite a los equipos de desarrollo y operaciones
 trabajar juntos de manera más eficiente y ofrecer software de alta calidad de manera más rápida y confiable.
+
+
+Un pipeline típico de DevOps se divide en las siguientes etapas
+
+1.	Construcción: se compila y empaqueta el código fuente.
+2.	Pruebas: se ejecutan pruebas automatizadas para verificar que el código cumple con los requisitos funcionales y no presenta errores.
+3.	Integración: se integra el código con otros componentes del sistema para asegurarse de que todos los elementos funcionen juntos.
+4.	Despliegue: se implementa el código en un entorno de prueba o de producción.
+5.	Monitoreo: se monitorea el rendimiento de la aplicación en tiempo real para detectar errores o problemas.
+Fuente: https://devopslatam.com/que-es-un-pipeline-de-ci-cd/
 
 ![5](https://user-images.githubusercontent.com/70449743/230981012-747f87db-a382-453b-ad3e-261bc73ffb86.png)
 
