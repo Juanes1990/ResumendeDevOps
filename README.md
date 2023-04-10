@@ -1,5 +1,7 @@
 # Resumen de DevOps
 
+![1](https://user-images.githubusercontent.com/70449743/230980577-993136a7-3270-44a7-a90e-6ac88e68dc52.jpg)
+
 ## Contenido
 
 1. [¿Qué es DevOps?](#qué-es-devops)
@@ -64,6 +66,8 @@ actualidad y DevOps es una forma efectiva de lograrlo.
 
 # Beneficios y Contras
 
+![2](https://user-images.githubusercontent.com/70449743/230980802-48d3eb93-338e-408e-932b-087536685201.png)
+
 Entre los beneficios de DevOps se incluyen la entrega de software de manera más rápida y frecuente, la mejora de la
 calidad del software, la reducción de costos y la mejora en la colaboración y comunicación entre equipos. Sin embargo,
 la implementación de DevOps puede ser costosa y requiere tiempo y recursos significativos. Además, la transición de una
@@ -107,6 +111,8 @@ continua, monitoreo y retroalimentación continua. Algunas de las herramientas m
 Docker, Ansible, Chef, Puppet, Nagios y ELK Stack. Estas herramientas ayudan a los equipos de DevOps a automatizar los
 procesos de desarrollo y entrega, mejorar la calidad del software y aumentar la eficiencia del equipo.
 
+![3](https://user-images.githubusercontent.com/70449743/230980835-4e17d552-e0b2-486b-a63c-96756e8d4d14.jpg)
+
 ## Herramientas
 
 - **De control de versiones:** Git es la herramienta de control de versiones más utilizada en DevOps. Permite a los
@@ -145,6 +151,8 @@ colaboración entre equipos.
 El enfoque DevOps se centra en la colaboración y comunicación estrecha entre los equipos de desarrollo y operaciones,
 por lo que la estructura de un equipo DevOps suele ser interdisciplinaria, con miembros de ambos equipos trabajando
 juntos.
+
+![4](https://user-images.githubusercontent.com/70449743/230980916-61103eac-ff93-4bcb-b750-c1c7819b36fb.jpg)
 
 ## Roles comunes
 
@@ -194,6 +202,8 @@ Los pipelines de DevOps pueden incluir una variedad de herramientas y tecnologí
 Jenkins para automatización de construcción y Bamboo para automatización de despliegue. Los pipelines de DevOps son una
 forma eficaz de automatizar el proceso de entrega de software, lo que permite a los equipos de desarrollo y operaciones
 trabajar juntos de manera más eficiente y ofrecer software de alta calidad de manera más rápida y confiable.
+
+![5](https://user-images.githubusercontent.com/70449743/230981012-747f87db-a382-453b-ad3e-261bc73ffb86.png)
 
 # Ejemplos de `pipelines`
 
