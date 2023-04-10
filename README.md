@@ -1,5 +1,5 @@
 # ResumendeDevOps
-
+![Image1.jpeg](Images/Image1.jpeg)
 
 Contenido:
 
@@ -13,6 +13,7 @@ Para mejorar el rendimiento y crear productos de calidad en menor tiempo,  de ta
 * Reducción del tiempo de comercialización.
 * Adaptación al mercado.
 * Mantenimiento de la estabilidad y la confiabilidad del sistema.
+
 
 
 Beneficios
@@ -45,6 +46,9 @@ herramientas de devops
 * Automatización de pruebas: Selenium, JMeter.
 * Gestión de proyectos: JIRA, Trello, Asana.
 * Gestión de infraestructura: AWS CloudFormation, Azure Resource Manager.
+
+![Image2.jpg](Images/Image2.jpg)
+
 
 
 Equipos devops
