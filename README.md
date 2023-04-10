@@ -67,11 +67,23 @@ Herramientas de Monitoreo (Grafana, Prometheus)
 
 # Equipos devops
 
+Un equipo de DevOps está compuesto por varios miembros con diferentes roles y responsabilidades que trabajan juntos para implementar y mantener una cultura de colaboración, automatización y mejora continua. A continuación, se describen algunos de los roles más comunes en un equipo de DevOps:
 
+Desarrolladores: Son responsables de escribir y probar el código del software. Trabajan en colaboración con los miembros del equipo de operaciones para garantizar que el código sea compatible con la infraestructura de producción.
+
+Administradores de sistemas: Son responsables de configurar, implementar y mantener la infraestructura de TI necesaria para ejecutar y entregar el software. A menudo, trabajan en colaboración con los desarrolladores para garantizar que la infraestructura sea compatible con el software.
+
+Ingenieros de automatización: Son responsables de la creación y el mantenimiento de herramientas y procesos de automatización para agilizar y optimizar el desarrollo, prueba y entrega de software.
+
+Ingenieros de seguridad: Son responsables de garantizar la seguridad del software y la infraestructura de TI. Trabajan en colaboración con los desarrolladores y administradores de sistemas para identificar y mitigar posibles vulnerabilidades.
+
+Ingenieros de calidad: Son responsables de garantizar la calidad del software entregado, a través de la implementación de pruebas automatizadas y de la integración continua.
+
+Líder de proyecto: Es responsable de supervisar el progreso del proyecto, la gestión de recursos, la planificación y coordinación de actividades, y la toma de decisiones clave.
 
 # que son pipelines
 
-
+Es un conjunto de procesos automatizados que se utilizan para compilar, probar y entregar software de manera rápida y confiable. También se conoce como canalización o flujo de trabajo. Los pipelines son una parte fundamental del enfoque de entrega continua de DevOps, ya que permiten que el software se mueva automáticamente a través de diferentes etapas del proceso de desarrollo y entrega, desde la compilación y prueba hasta la implementación y puesta en marcha.
 
 # ejemplos de pipeline
 
