@@ -1,4 +1,4 @@
-# Resumen de DevOps
+# Resumen de DevOps 
 
 ![1](https://user-images.githubusercontent.com/70449743/230980577-993136a7-3270-44a7-a90e-6ac88e68dc52.jpg)
 
@@ -37,32 +37,9 @@ rápida y eficiente.
 
 # ¿Para qué sirve DevOps?
 
-DevOps se utiliza para mejorar la velocidad, calidad y eficiencia de la entrega de software. Al adoptar DevOps, las
-empresas pueden reducir el tiempo que toma llevar una idea de producto al mercado, mejorar la calidad de su software
-y aumentar la satisfacción del cliente al brindar un mejor soporte y experiencia. DevOps también ayuda a reducir el
-tiempo de inactividad del sistema y los errores de implementación, lo que mejora la seguridad y estabilidad del
-software. DevOps ayuda a las empresas a ser más competitivas en un mercado que evoluciona rápidamente.
-
-El objetivo principal de DevOps es fomentar una cultura colaborativa y eficiente entre los equipos de desarrollo y
-operaciones, lo que permite a las empresas implementar software de manera rápida y confiable. Busca lograr la
-integración continua, la entrega continua y el despliegue continuo de software. Esto significa que el código fuente de
-una aplicación se somete a pruebas y se implementa de manera automatizada en un entorno de producción, lo que reduce la
-posibilidad de errores y tiempos de inactividad. Además, DevOps también busca mejorar la calidad del software al
-garantizar que las pruebas automatizadas se realicen en cada etapa del ciclo de vida del software. Esto permite a los
-equipos de desarrollo detectar y solucionar problemas en las primeras etapas del ciclo de vida del software, lo que
-reduce el costo y el tiempo de reparación de los errores.
-
-Otro beneficio de DevOps es que permite una mayor visibilidad en la aplicación y su entorno, lo que facilita la
-identificación y resolución de problemas en tiempo real. También permite una mayor colaboración entre los equipos de
-desarrollo y operaciones, lo que resulta en una mejor comprensión de las necesidades de la aplicación y una
-implementación más efectiva de la infraestructura.
-
-Sin embargo, como con cualquier metodología, hay algunos contras de DevOps. Uno de los principales contras es que puede
-requerir una inversión significativa en herramientas y automatización, lo que puede ser costoso para algunas empresas.
-Además, la adopción de DevOps puede requerir un cambio cultural en la organización, lo que puede llevar tiempo y
-esfuerzo para implementar correctamente. los beneficios de DevOps superan los contras y es por eso que se ha convertido
-en una metodología muy popular en la industria del software. La entrega rápida y confiable de software es esencial en la
-actualidad y DevOps es una forma efectiva de lograrlo.
+Bajo un modelo de DevOps, los equipos de desarrollo y operaciones ya no están “aislados”. A veces, los dos equipos se fusionan en uno solo, donde los ingenieros trabajan en todo el ciclo de vida de la aplicación, desde el desarrollo y las pruebas hasta la implementación y las operaciones, y desarrollan una variedad de habilidades no limitadas a una única función.
+En algunos modelos de DevOps, los equipos de control de calidad y de seguridad también se integran más con el desarrollo y las operaciones e intervienen durante todo el ciclo de vida de la aplicación. Cuando la seguridad es la prioridad de todos los miembros de DevOps, a veces se conoce como operaciones de seguridad de desarrollo.
+Los equipos utilizan prácticas para automatizar los procesos que anteriormente habían sido manuales y lentos. Utilizan una pila de tecnología y herramientas que los ayudan a operar y mejorar aplicaciones de forma rápida y confiable. Además, estas herramientas ayudan a los ingenieros a realizar de forma independiente tareas que normalmente hubieran requerido la ayuda de otros equipos (por ejemplo, implementar código o aprovisionar infraestructura), lo que incrementa todavía más la velocidad del equipo.
 
 # Beneficios y Contras
 
@@ -228,6 +205,8 @@ personalizado que se adapta a las necesidades y objetivos específicos de la emp
 de los pipelines de DevOps son una de las razones por las que esta metodología ha demostrado ser exitosa en la entrega
 rápida y confiable de software.
 
+![ejemplos](https://user-images.githubusercontent.com/58493019/230983632-e700a4a8-da26-4d5a-9826-53aed0b5d773.png)
+
 - - -
 🐢
 
@@ -236,3 +215,4 @@ rápida y confiable de software.
     src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
     alt="Gitmoji"
   />
+
