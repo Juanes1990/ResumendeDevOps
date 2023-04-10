@@ -19,6 +19,10 @@ Beneficios y contras?
 Los beneficios de DevOps incluyen una mayor colaboración y comunicación entre los equipos, una mayor velocidad y calidad en la entrega de software, una mejor eficiencia en los procesos de desarrollo y operaciones y una mayor capacidad para adaptarse a los cambios y demandas del mercado.
 Sin embargo, también existen algunos contras potenciales, como la necesidad de una mayor inversión inicial en infraestructura y herramientas, la complejidad del proceso de implementación y la necesidad de un cambio cultural en la organización.
 
+PRINCIPIOS DEVOPS
+
+En general, lo que siempre queremos con devops es mejorar la frecuencia de nuestros despliegues, acelerar el time to Market, disminuir la tasa de errores en las nuevas entregas al tener una cobertura alta de pruebas automatizadas, reducir los tiempos entre correcciones, dado que tenemos herramientas de monitoreo que nos permiten encontrar errores y además, tenemos una forma muy rápida y automatizada de desplegar, además también cuando tenemos errores o caídas en producción, pues nos vamos a poder recuperar fácilmente y rápido ante estas caídas. 
+
 ![4](https://user-images.githubusercontent.com/105447701/230987188-c6253ddb-b5a6-47b5-92d2-78bb20b15c76.PNG)
 
 herramientas de devops
